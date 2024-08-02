@@ -1,0 +1,137 @@
+        <div id="prod02-l1">aaSAs</div>
+        <div id="prod03-l1">aaSAs</div>
+        <div id="prod04-l1">aaSAs</div>
+
+
+        
+        <div id="prod01-l2">aaSAs</div>
+        <div id="prod02-l2">aaSAs</div>
+        <div id="prod03-l2">aaSAs</div>
+        <div id="prod04-l2">aaSAs</div>
+
+
+        
+        <div id="prod01-l3">aaSAs</div>
+        <div id="prod02-l3">aaSAs</div>
+        <div id="prod03-l3">aaSAs</div>
+        <div id="prod04-l3">aaSAs</div>
+
+
+        
+        <div id="prod01-l4">aaSAs</div>
+        <div id="prod02-l4">aaSAs</div>
+        <div id="prod03-l4">aaSAs</div>
+        <div id="prod04-l4">aaSAs</div>
+
+
+
+
+
+
+
+
+        #prod02-l1{grid-column: 3;}
+        #prod03-l1{grid-column: 4;}
+        #prod04-l1{grid-column: 5;}
+        
+        #prod01-l2{grid-column: 2;}
+        #prod02-l2{grid-column: 3;}
+        #prod03-l2{grid-column: 4;}
+        #prod04-l2{grid-column: 5;}
+        
+        #prod01-l3{grid-column: 2;}
+        #prod02-l3{grid-column: 3;}
+        #prod03-l3{grid-column: 4;}
+        #prod04-l3{grid-column: 5;}
+        
+        #prod01-l4{grid-column: 2;}
+        #prod02-l4{grid-column: 3;}
+        #prod03-l4{grid-column: 4;}
+        #prod04-l4{grid-column: 5;}
+
+
+
+
+
+
+
+        #l1prod{grid-row: 5;
+            grid-column: 6/5;
+            }
+            #l2prod{grid-row: 6;}
+            #l3prod{grid-row: 7;}
+            #l4prod{grid-row: 8;}
+
+
+
+
+
+
+
+
+
+
+
+            <div id=""><img src=".jpg" alt="" class=""></div>
+            <div id=""><img src=".jpg" alt="" class=""></div>
+            <div id=""><img src=".jpg" alt="" class=""></div>
+            <div id=""><img src=".jpg" alt="" class=""></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <div class="ltrprod">
+
+                <div>Latest Products <svg class="angle" xmlns="http://www.w3.org/2000/svg" height="12" width="7.5" viewBox="0 0 320 512"><!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path fill="#636363" d="M41.4 233.4c-12.5 12.5-12.5 32.8 0 45.3l160 160c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L109.3 256 246.6 118.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0l-160 160z"/></svg>  <svg class="angle" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path fill="#636363" d="M278.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-160 160c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L210.7 256 73.4 118.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l160 160z"/></svg></div>
+                <div>Top Rated Products <svg class="angle" xmlns="http://www.w3.org/2000/svg" height="12" width="7.5" viewBox="0 0 320 512"><!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path fill="#636363" d="M41.4 233.4c-12.5 12.5-12.5 32.8 0 45.3l160 160c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L109.3 256 246.6 118.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0l-160 160z"/></svg>  <svg class="angle" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path fill="#636363" d="M278.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-160 160c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L210.7 256 73.4 118.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l160 160z"/></svg></div>
+                <div>Review Products <svg class="angle" xmlns="http://www.w3.org/2000/svg" height="12" width="7.5" viewBox="0 0 320 512"><!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path fill="#636363" d="M41.4 233.4c-12.5 12.5-12.5 32.8 0 45.3l160 160c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L109.3 256 246.6 118.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0l-160 160z"/></svg>  <svg class="angle" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path fill="#636363" d="M278.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-160 160c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L210.7 256 73.4 118.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l160 160z"/></svg></div>
+            </div>
+            <div>
+                <div> <img src="pimentao.webp" alt="">
+                </div>
+                <div>
+                    Crab Pool Security <br>
+                    $30.00
+                </div>
+    
+                
+    
+            </div>
+    
+            <div class="ltrprod">
+    
+                <div>Latest Products <svg class="angle" xmlns="http://www.w3.org/2000/svg" height="12" width="7.5" viewBox="0 0 320 512"><!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path fill="#636363" d="M41.4 233.4c-12.5 12.5-12.5 32.8 0 45.3l160 160c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L109.3 256 246.6 118.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0l-160 160z"/></svg>  <svg class="angle" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path fill="#636363" d="M278.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-160 160c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L210.7 256 73.4 118.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l160 160z"/></svg></div>
+                <div>Top Rated Products <svg class="angle" xmlns="http://www.w3.org/2000/svg" height="12" width="7.5" viewBox="0 0 320 512"><!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path fill="#636363" d="M41.4 233.4c-12.5 12.5-12.5 32.8 0 45.3l160 160c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L109.3 256 246.6 118.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0l-160 160z"/></svg>  <svg class="angle" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path fill="#636363" d="M278.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-160 160c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L210.7 256 73.4 118.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l160 160z"/></svg></div>
+                <div>Review Products <svg class="angle" xmlns="http://www.w3.org/2000/svg" height="12" width="7.5" viewBox="0 0 320 512"><!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path fill="#636363" d="M41.4 233.4c-12.5 12.5-12.5 32.8 0 45.3l160 160c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L109.3 256 246.6 118.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0l-160 160z"/></svg>  <svg class="angle" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path fill="#636363" d="M278.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-160 160c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L210.7 256 73.4 118.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l160 160z"/></svg></div>
+            </div>
+            <div>
+                <div> <img src="frang.webp" alt="">
+                </div>
+                <div>
+                    Crab Pool Security <br>
+                    $30.00
+                </div>
+            </div>
+    
+    
+    
+    
+    
+    <div id="prod01">
+<div id="prod02">
+</div>
+<div id="prod03">
+<div id="prod04">
+</div>
+</div>
+</div>
+    
